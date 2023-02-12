@@ -1,0 +1,15 @@
+C:\Users\EDUARDO\Documents\C# Programming\TestandoPorAi\TestandoPorAi\bin\Debug\net6.0\TestandoPorAi.exe
+C:\Users\EDUARDO\Documents\C# Programming\TestandoPorAi\TestandoPorAi\bin\Debug\net6.0\TestandoPorAi.deps.json
+C:\Users\EDUARDO\Documents\C# Programming\TestandoPorAi\TestandoPorAi\bin\Debug\net6.0\TestandoPorAi.runtimeconfig.json
+C:\Users\EDUARDO\Documents\C# Programming\TestandoPorAi\TestandoPorAi\bin\Debug\net6.0\TestandoPorAi.dll
+C:\Users\EDUARDO\Documents\C# Programming\TestandoPorAi\TestandoPorAi\bin\Debug\net6.0\TestandoPorAi.pdb
+C:\Users\EDUARDO\Documents\C# Programming\TestandoPorAi\TestandoPorAi\obj\Debug\net6.0\TestandoPorAi.csproj.AssemblyReference.cache
+C:\Users\EDUARDO\Documents\C# Programming\TestandoPorAi\TestandoPorAi\obj\Debug\net6.0\TestandoPorAi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EDUARDO\Documents\C# Programming\TestandoPorAi\TestandoPorAi\obj\Debug\net6.0\TestandoPorAi.AssemblyInfoInputs.cache
+C:\Users\EDUARDO\Documents\C# Programming\TestandoPorAi\TestandoPorAi\obj\Debug\net6.0\TestandoPorAi.AssemblyInfo.cs
+C:\Users\EDUARDO\Documents\C# Programming\TestandoPorAi\TestandoPorAi\obj\Debug\net6.0\TestandoPorAi.csproj.CoreCompileInputs.cache
+C:\Users\EDUARDO\Documents\C# Programming\TestandoPorAi\TestandoPorAi\obj\Debug\net6.0\TestandoPorAi.dll
+C:\Users\EDUARDO\Documents\C# Programming\TestandoPorAi\TestandoPorAi\obj\Debug\net6.0\refint\TestandoPorAi.dll
+C:\Users\EDUARDO\Documents\C# Programming\TestandoPorAi\TestandoPorAi\obj\Debug\net6.0\TestandoPorAi.pdb
+C:\Users\EDUARDO\Documents\C# Programming\TestandoPorAi\TestandoPorAi\obj\Debug\net6.0\TestandoPorAi.genruntimeconfig.cache
+C:\Users\EDUARDO\Documents\C# Programming\TestandoPorAi\TestandoPorAi\obj\Debug\net6.0\ref\TestandoPorAi.dll

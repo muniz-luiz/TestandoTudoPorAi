@@ -4,6 +4,7 @@ using System.Globalization;
 using System.Security.Cryptography.X509Certificates;
 using TestandoPorAi;
 using System.Collections.Generic;
+using TestandoPorAi.Entities;
 
 namespace PrimeiroProjeto
 {
@@ -12,7 +13,21 @@ namespace PrimeiroProjeto
         static void Main(string[] args)
         {
 
-                   
+            Account account = new Account(1000, "Eduardo", 0.0);
+            BusinessAccount businessAccount = new BusinessAccount(1015, "Bruna", 12.00, 50);
+            Account account2 = new Account(1004, "Lucas", 800);
+            BusinessAccount businessAccount2 = new BusinessAccount(1008, "Israel", 15.00, 820);
+
+            //exemplificando um UPCASTING
+            Account account1 = businessAccount;
+
+            //Exemplificando um  DOWNCASTING
+            BusinessAccount businessAccount3 = (BusinessAccount)businessAccount2;
+            businessAccount3.Loan(500);
+
+
+
+
 
 
             /*double[,] mat = new double[2,3];

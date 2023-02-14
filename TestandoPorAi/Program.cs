@@ -23,9 +23,13 @@ namespace PrimeiroProjeto
             int result = num1 / num2;
             Console.WriteLine(result);
 
-            }catch(Exception ex)
+            }catch(DivideByZeroException ex)
             {
-                Console.WriteLine("Error! " + ex.Message);
+                Console.WriteLine("Divided by zero is not allowed");
+            }
+            catch(FormatException ex)
+            {
+                Console.WriteLine("Format error, only number is allowed");
             }
 
 

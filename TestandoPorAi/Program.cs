@@ -13,6 +13,33 @@ namespace PrimeiroProjeto
         static void Main(string[] args)
         {
 
+
+            try 
+            { 
+
+            int num1 = int.Parse(Console.ReadLine());
+            int num2 = int.Parse(Console.ReadLine());
+
+            int result = num1 / num2;
+            Console.WriteLine(result);
+
+            }catch(Exception ex)
+            {
+                Console.WriteLine("Error! " + ex.Message);
+            }
+
+
+
+
+
+
+
+
+
+
+
+
+            /*
             Account account = new Account(1000, "Eduardo", 0.0);
             BusinessAccount businessAccount = new BusinessAccount(1015, "Bruna", 12.00, 50);
             Account account2 = new Account(1004, "Lucas", 800);
@@ -30,7 +57,7 @@ namespace PrimeiroProjeto
 
 
 
-            /*double[,] mat = new double[2,3];
+            double[,] mat = new double[2,3];
 
             Console.WriteLine(mat.Rank);
 

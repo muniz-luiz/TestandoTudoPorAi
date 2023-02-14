@@ -6,6 +6,7 @@ using TestandoPorAi;
 using System.Collections.Generic;
 using TestandoPorAi.Entities;
 
+
 namespace PrimeiroProjeto
 {
     internal class Program
@@ -14,7 +15,28 @@ namespace PrimeiroProjeto
         {
 
 
-            try 
+            /*string sourcePath = @"C:\\Users\\EDUARDO\\Documents\\C# Programming\Testando1.txt";
+            string targetPath = @"C:\\Users\\EDUARDO\\Documents\\C# Programming\Testando2.txt";
+
+            try
+            {
+                FileInfo fileInfo = new FileInfo(sourcePath);
+                fileInfo.CopyTo(targetPath);
+                string[] lines = File.ReadAllLines(sourcePath);
+                foreach (string line in lines)
+                {
+                    Console.WriteLine(line);
+                }
+            }
+            catch (IOException e)    
+            {
+                Console.WriteLine();
+                Console.WriteLine("An error ocurred!");
+                Console.WriteLine(e.Message);
+            }
+
+
+            /*try 
             { 
 
             int num1 = int.Parse(Console.ReadLine());
@@ -31,20 +53,7 @@ namespace PrimeiroProjeto
             {
                 Console.WriteLine("Format error, only number is allowed");
             }
-
-
-
-
-
-
-
-
-
-
-
-
-            /*
-            Account account = new Account(1000, "Eduardo", 0.0);
+            /Account account = new Account(1000, "Eduardo", 0.0);
             BusinessAccount businessAccount = new BusinessAccount(1015, "Bruna", 12.00, 50);
             Account account2 = new Account(1004, "Lucas", 800);
             BusinessAccount businessAccount2 = new BusinessAccount(1008, "Israel", 15.00, 820);
@@ -55,12 +64,7 @@ namespace PrimeiroProjeto
             //Exemplificando um  DOWNCASTING
             BusinessAccount businessAccount3 = (BusinessAccount)businessAccount2;
             businessAccount3.Loan(500);
-
-
-
-
-
-
+/
             double[,] mat = new double[2,3];
 
             Console.WriteLine(mat.Rank);
@@ -101,10 +105,7 @@ namespace PrimeiroProjeto
             list.Remove("Bruna");
             foreach(string s in list) Console.WriteLine(s);
            
-
-
-
-
+/
             string[] vetor = new string[] { "Matis", "Edu", "Bruna" };
 
             foreach(string v in vetor)
